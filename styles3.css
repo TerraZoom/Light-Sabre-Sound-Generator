@@ -1,0 +1,25 @@
+body {
+  padding: 0;
+  margin: 0px;
+}
+
+#main {
+  position: absolute;
+  top: 90px;
+  display: inline-block;
+  font-family: sans-serif;
+}
+
+#header {
+  font-family: sans-serif;
+  font-size: 30px;
+  margin: 10px 0 20px 0;
+}
+
+/* FREQUENCY */
+#frequency {position: absolute; left: 10px; top: 0px;}
+#freqItem { margin: 0 0 10px 30px; }
+
+/* VOLUME */
+#volume { position: absolute; left: 330px; top: 0px; margin: 0px 0;}
+#volItem { margin: 0 0 10px 10px; }
